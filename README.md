@@ -24,10 +24,11 @@
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/mustafa-yiğit-eroğlu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+    &nbsp;linkedin.com/in/mustafa-yiğit-eroğlu/
   </a>
-  &nbsp;
 </p>
+
 
 ---
 
