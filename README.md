@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Yiğit Eroğlu</h1>
 <h3 align="center">🚀 Business Analyst || ERP Systems, SAP Business One, Netsis, Odoo, Akınsoft, SQL Server, Database Management, Power BI, Data Analysis, Python, VBA, Automation, Software Testing, Quality Assurance, Hardware Installation, IoT, Business Process Analysis, Optimization, Agile, Scrum, Kanban, Project Management, Conceptual Design, Documentation, Warehouse Management, Inventory Management, Automatic Reporting, Data Mining, Industrial Automation </h3>
 
-<img align="right" alt="Coding" width="180" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611e1qthk1yel32uexefek4t3bdkpkd5b1z28mc2a1x&ep=v1_internal_gif_by_id&ct=s">
+<img align="right" alt="Coding" width="180" >
 
 - 🌱 I’m currently learning **Python**  
 - 🛠️ I enjoy working with **ERP**, **SQL**, **Python**, and **Data**  
@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mustafa-yiğit-eroğlu/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-    linkedin.com/in/metin-baybars-arslan
+    linkedin.com/in/mustafa-yiğit-eroğlu/
   </a>
 </p>
 
@@ -42,9 +42,6 @@
   <!-- ERP -->
   <a href="https://www.sap.com/" target="_blank"><img alt="SAP" src="https://cdn.simpleicons.org/sap" width="40" height="40"/></a>
 
-  <!-- Diğer -->
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
