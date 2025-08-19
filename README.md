@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/mustafa-yiğit-eroğlu/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  &nbsp; [linkedin.com/in/mustafa-yiğit-eroğlu/](https://www.linkedin.com/in/mustafa-yiğit-eroğlu/)
+  &nbsp;
 </p>
 
 ---
