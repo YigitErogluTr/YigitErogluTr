@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Yiğit Eroğlu</h1>
 <h3 align="center">🚀 Business Analyst || ERP Systems, SAP Business One, Netsis, Odoo, Akınsoft, SQL Server, Database Management, Power BI, Data Analysis, Python, VBA, Automation, Software Testing, Quality Assurance, Hardware Installation, IoT, Business Process Analysis, Optimization, Agile, Scrum, Kanban, Project Management, Conceptual Design, Documentation, Warehouse Management, Inventory Management, Automatic Reporting, Data Mining, Industrial Automation </h3>
 
-<img align="right" alt="Coding" width="180" >
+
 
 - 🌱 I’m currently learning **Python**  
 - 🛠️ I enjoy working with **ERP**, **SQL**, **Python**, and **Data**  
