@@ -10,8 +10,8 @@
 ---
 
 - 🌱 I’m currently learning **Python**  
-- 🛠️ I enjoy working with **ERP**, **SQL**, **Python**, and **Data**  
-- 💼 Day to day: **Python**, **SAP**, **SQL**, **Excel** in ERP environments  
+- 🛠️ Passionate about **ERP**, **SQL**, **Python**, and **Data**  
+- 💼 Working daily with **Python**, **SAP**, **SQL**, and **Excel** in ERP environments  
 - 📫 Reach me at **yigiteroglu7@gmail.com** • [🌐 Website](https://yigiteroglu.pythonanywhere.com)
 
 ---
@@ -25,55 +25,55 @@
 
 ---
 
-### 🚀 Projeler
-- [SAP B1 Canlı Geniş Tüm Süreçler](https://yigiteroglu.pythonanywhere.com/projects/sap-b1)  
-- [WMS Depo Yönetim Sistemi](https://yigiteroglu.pythonanywhere.com/projects/wms)  
-- [NETSİS Add-On Geliştirme](https://yigiteroglu.pythonanywhere.com/projects/netsis-addon)  
-- [SQL Raporlama & Veri Madenciliği](https://yigiteroglu.pythonanywhere.com/projects/sql-raporlama)  
-- [IoT Sistemler](https://yigiteroglu.pythonanywhere.com/projects/iot)  
-- [Python, SQL, VBA ile Otomatik Raporlama](https://yigiteroglu.pythonanywhere.com/projects/python-oto-rapor)  
-- [Satış Teklifi Uygulaması](https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama)  
-- [Odoo Help Desk & Proje Yönetimi](https://yigiteroglu.pythonanywhere.com/projects/odoo)  
-- [Üretim Modülü – Mrp Boom İş Emri](https://yigiteroglu.pythonanywhere.com/projects/uretim-modulu)  
-- [Fiili Maliyet Projesi](https://yigiteroglu.pythonanywhere.com/projects/fiili-maliyet)  
-- [BRL Tekstil | Kredi Kar/Zarar Takibi](https://yigiteroglu.pythonanywhere.com/projects/kredi-kar-zarar)  
-- [LetApp | Python Tkinter ile ERP Mini App](https://yigiteroglu.pythonanywhere.com/projects/python-thinker)  
-- [FastAPI ile SQL Tabanlı Veri Servisi](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)  
-- [Dash | Operasyon Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
-- [Dash | Stok & Üretim Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
-- [TCMB Kur Çekim Otomasyonu](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)  
+### 🚀 Projects
+- [SAP B1 | Full Business Processes](https://yigiteroglu.pythonanywhere.com/projects/sap-b1)  
+- [WMS | Warehouse Management System](https://yigiteroglu.pythonanywhere.com/projects/wms)  
+- [NETSIS | Add-On Development](https://yigiteroglu.pythonanywhere.com/projects/netsis-addon)  
+- [SQL | Reporting & Data Mining](https://yigiteroglu.pythonanywhere.com/projects/sql-raporlama)  
+- [IoT | Automation Systems](https://yigiteroglu.pythonanywhere.com/projects/iot)  
+- [Python, SQL, VBA | Automated Reporting](https://yigiteroglu.pythonanywhere.com/projects/python-oto-rapor)  
+- [Custom Sales Offer Application](https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama)  
+- [Odoo | Help Desk & Project Management](https://yigiteroglu.pythonanywhere.com/projects/odoo)  
+- [MRP Boom | Production Module](https://yigiteroglu.pythonanywhere.com/projects/uretim-modulu)  
+- [Actual Cost Project](https://yigiteroglu.pythonanywhere.com/projects/fiili-maliyet)  
+- [BRL Textile | Credit P&L Tracking](https://yigiteroglu.pythonanywhere.com/projects/kredi-kar-zarar)  
+- [LetApp | Python Tkinter ERP Mini-App](https://yigiteroglu.pythonanywhere.com/projects/python-thinker)  
+- [FastAPI | SQL-Based Data Service](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)  
+- [Dash | Operations Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
+- [Dash | Stock & Production Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
+- [TCMB FX Rates Automation](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)  
 
-➡️ [Tüm projeler için →](https://yigiteroglu.pythonanywhere.com/projects)
+➡️ [See all projects →](https://yigiteroglu.pythonanywhere.com/projects)
 
 ---
 
 ### 📝 Blog
-➡️ [Blog yazılarım için →](https://yigiteroglu.pythonanywhere.com/blog)
+➡️ [Read my blog posts →](https://yigiteroglu.pythonanywhere.com/blog)
 
 ---
 
-### 🔗 Referanslar
-➡️ [Tüm referanslar için →](https://yigiteroglu.pythonanywhere.com/references)
+### 🔗 References
+➡️ [See all references →](https://yigiteroglu.pythonanywhere.com/references)
 
 ---
 
-### 🏆 Ödüller
-➡️ [Ödüller için →](https://yigiteroglu.pythonanywhere.com/awards)
+### 🏆 Awards
+➡️ [See all awards →](https://yigiteroglu.pythonanywhere.com/awards)
 
 ---
 
-### 🎓 Eğitim
-➡️ [Eğitim & Kurslar için →](https://yigiteroglu.pythonanywhere.com/education)
+### 🎓 Education
+➡️ [See education & courses →](https://yigiteroglu.pythonanywhere.com/education)
 
 ---
 
-### 💼 Kariyer
-➡️ [Kariyerim için →](https://yigiteroglu.pythonanywhere.com/career)
+### 💼 Career
+➡️ [See my career →](https://yigiteroglu.pythonanywhere.com/career)
 
 ---
 
-### 🛠️ Beceriler
-➡️ [Becerilerim için →](https://yigiteroglu.pythonanywhere.com/skills)
+### 🛠️ Skills
+➡️ [See all skills →](https://yigiteroglu.pythonanywhere.com/skills)
 
 ---
 
