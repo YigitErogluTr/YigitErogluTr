@@ -81,8 +81,8 @@
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://img.icons8.com/color/48/sap.png" width="40" title="SAP Business One"/>
-  <img src="https://www.logo.com.tr/Uploads/Images/Product/Logo-Netsis-Logo.svg" height="40" title="Netsis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" width="40" title="Odoo"/>
+  <img src="https://www.netsislogodestek.com/storage/app/uploads/public/646/247/128/646247128afa4419265079.jpg" height="40" title="Netsis"/>
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" height="40" title="Odoo"/>
   <img src="https://akinsoft.com.tr/favicon.ico" width="40" title="Akınsoft ERP"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL Server"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
