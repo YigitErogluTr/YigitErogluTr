@@ -34,15 +34,18 @@
 - [Python, SQL, VBA | Automated Reporting](https://yigiteroglu.pythonanywhere.com/projects/python-oto-rapor)  
 - [Custom Sales Offer Application](https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama)  
 - [Odoo | Help Desk & Project Management](https://yigiteroglu.pythonanywhere.com/projects/odoo)  
-- [MRP Boom | Production Module](https://yigiteroglu.pythonanywhere.com/projects/uretim-modulu)  
+- [MRP BoM | Production Module](https://yigiteroglu.pythonanywhere.com/projects/uretim-modulu)  
 - [Actual Cost Project](https://yigiteroglu.pythonanywhere.com/projects/fiili-maliyet)  
 - [BRL Textile | Credit P&L Tracking](https://yigiteroglu.pythonanywhere.com/projects/kredi-kar-zarar)  
 - [LetApp | Python Tkinter ERP Mini-App](https://yigiteroglu.pythonanywhere.com/projects/python-thinker)  
-- [FastAPI | SQL-Based Data Service](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)
-- [ERP Reports | Cost, Finance, Inventory, Logistics, Production, Purchasing and Sales Inquiries](https://yigiteroglu.pythonanywhere.com/projects/erp-reports)
-- [Dash | Operations Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
-- [Dash | Stock & Production Dashboard](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
+- [ERP Reports | Cost, Finance, Inventory, Logistics, Production, Purchasing & Sales Queries](https://yigiteroglu.pythonanywhere.com/projects/erp-reports)  
+- [Time Series Analysis | Sales Forecasting & Trend Modeling](https://yigiteroglu.pythonanywhere.com/projects/time-series-analysis)  
+- [E-Commerce Analytics Dashboard | Multi-Page, Auth, Print/PDF](https://yigiteroglu.pythonanywhere.com/projects/ecommerce-analytics-dashboard)  
+- [FastAPI | SQL-Based Data Service](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)  
+- [Dash | Operations Dashboard – Sales, Purchasing, Warehouse & Production](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
+- [Dash | Stock & Production Dashboard — PBI-Themed, SQL Server-Backed](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
 - [TCMB FX Rates Automation](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)  
+
 
 ➡️ [See all projects →](https://yigiteroglu.pythonanywhere.com/projects)
 
