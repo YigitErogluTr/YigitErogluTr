@@ -16,18 +16,19 @@
 
 ---
 
-### 💡 Experienced in
 
-**ERP Systems**: SAP Business One, Netsis, Odoo, Akınsoft ERP
-**Databases & Analytics**: SQL Server, Power BI, SPSS, Pandas, NumPy
-**Programming & Automation**: Python, FastAPI, Dash, Tkinter, VBA, SQL, Gmail API (Automated Reporting)
-**Data Science & Forecasting**: Time Series Analysis, Machine Learning (SARIMAX, Holt-Winters, Gradient Boosting)
-**Software Quality Assurance**: Test Case Design, QA, UAT
-**Hardware & IoT**: IoT Systems, Automation Solutions, Hardware Setup
-**Business Process Analysis**: Process Mapping, Optimization
-**Project Management**: Agile, Scrum, Kanban
-**Documentation**: Conceptual Design, Business Analysis Docs
-**Professional Skills**: Analytical Thinking, Problem Solving, Communication, Teamwork, Time Management, Attention to Detail
+### 💡 Experienced in  
+- **ERP Systems:** SAP Business One, Netsis, Odoo, Akınsoft ERP  
+- **Databases & Analytics:** SQL Server, Power BI, SPSS, Pandas, NumPy  
+- **Programming & Automation:** Python, FastAPI, Dash, Tkinter, VBA, SQL, Gmail API (Automated Reporting)  
+- **Data Science & Forecasting:** Time Series Analysis, ML (SARIMAX, Holt-Winters, Gradient Boosting)  
+- **Software QA:** Test Case Design, QA, UAT  
+- **Hardware & IoT:** IoT Systems, Automation Solutions, Hardware Setup  
+- **Business Processes:** Process Mapping, Optimization  
+- **Project Management:** Agile, Scrum, Kanban  
+- **Documentation:** Conceptual Design, Business Analysis Docs  
+- **Professional Skills:** Analytical Thinking, Problem Solving, Communication, Teamwork, Time Management, Attention to Detail  
+
 ---
 
 ### 🚀 Projects
