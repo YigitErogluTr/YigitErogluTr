@@ -44,7 +44,9 @@
 - [FastAPI | SQL-Based Data Service](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)  
 - [Dash | Operations Dashboard – Sales, Purchasing, Warehouse & Production](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
 - [Dash | Stock & Production Dashboard — PBI-Themed, SQL Server-Backed](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
-- [TCMB FX Rates Automation](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)  
+- [TCMB FX Rates Automation](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)
+- [Cost Estimate](https://yigiteroglu.pythonanywhere.com/projects/cost-estimate)  
+
 
 
 ➡️ [See all projects →](https://yigiteroglu.pythonanywhere.com/projects)
