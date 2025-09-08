@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Yiğit Eroğlu</h1>
-<h3 align="center">🚀 Business Analyst | ERP & Data Solutions Consultant </h3>
+<h3 align="center">🚀 Business Analyst | ERP Systems and Data Analytics Consultant </h3>
 
 <p align="center">
   <a href="mailto:yigiteroglu7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yigiteroglu7%40gmail.com-informational?logo=gmail"></a>
