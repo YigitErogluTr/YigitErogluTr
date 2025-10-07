@@ -49,7 +49,8 @@
 - [E-Commerce Analytics Dashboard | Multi-Page, Auth, Print/PDF](https://yigiteroglu.pythonanywhere.com/projects/ecommerce-analytics-dashboard)  
 - [FastAPI | SQL-Based Data Service](https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi)  
 - [Dash | Operations Dashboard – Sales, Purchasing, Warehouse & Production](https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer)  
-- [Dash | Stock & Production Dashboard — PBI-Themed, SQL Server-Backed](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)  
+- [Dash | Stock & Production Dashboard — PBI-Themed, SQL Server-Backed](https://yigiteroglu.pythonanywhere.com/projects/dash-stock)
+- [ABC | Pareto Analysis — SAP B1 (SQL Server), T-SQL + Excel (VBA), 80/95 Guide Lines](https://yigiteroglu.pythonanywhere.com/projects/abc-pareto-sapb1)
 - [TCMB FX Rates Automation](https://yigiteroglu.pythonanywhere.com/projects/tcmb-kur)
 - [Cost Estimate](https://yigiteroglu.pythonanywhere.com/projects/cost-estimate)  
 
