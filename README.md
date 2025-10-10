@@ -251,11 +251,25 @@ ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations.
 ---
 
 ## 💻 Tech Stack
+
 **ERP:** SAP Business One, Netsis, Odoo, Akınsoft ERP  
 **DB/BI:** SQL Server, Power BI, SPSS  
 **Python:** Pandas, NumPy, FastAPI, Dash/Plotly, Tkinter, OpenPyXL, Requests  
 **Automation:** VBA/Excel, Gmail API, scheduling, ETL pipelines  
 **Patterns:** Idempotent email alerts, CSV/Excel/PDF outputs, auth’d dashboards
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/sap.png" width="40" height="40" alt="SAP Business One" title="SAP Business One"/>
+  <img src="https://www.netsislogodestek.com/storage/app/uploads/public/646/247/128/646247128afa4419265079.jpg" height="40" alt="Netsis" title="Netsis"/>
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" height="40" alt="Odoo" title="Odoo"/>
+  <img src="https://akinsoft.com.tr/favicon.ico" width="40" height="40" alt="Akınsoft ERP" title="Akınsoft ERP"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" height="40" alt="VBA/Excel" title="VBA/Excel"/>
+</p>
 
 ---
 
