@@ -81,7 +81,7 @@ My work blends **business analysis, data engineering, and productized automation
 
 - **Dash | Financial Statements Analysis (Demo)**  
   Income statement, balance sheet, cash flow, ratios; last 5-year comparison; multi-sheet Excel export.  
-  → https://github.com/YigitErogluTr/Finansal_Tablolar_Analizi
+  → https://yigiteroglu.pythonanywhere.com/projects/finance
 
 ---
 
@@ -202,8 +202,7 @@ My work blends **business analysis, data engineering, and productized automation
 
 - **Organization Chart | Tkinter Desktop**  
   Build org charts from Excel/CSV; position-based color themes, search with auto-centering, PNG/PDF export.  
-  → https://github.com/YigitErogluTr/OrganizasyonSemasi_V1
-
+  → https://yigiteroglu.pythonanywhere.com/projects/orgchart
 - **Custom Sales Offer Application**  
   Tailored quotation flows & exports.  
   → https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama
