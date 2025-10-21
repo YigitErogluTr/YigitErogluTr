@@ -53,6 +53,10 @@ My work blends **business analysis, data engineering, and productized automation
 
 ## 🚀 Featured Projects
 
+- **ERP Notify | Audit & Operational Email Reports (SAP B1 + Gmail API)**  
+  Scheduled, idempotent notifications for PRQ→PO conversions, shipments/deliveries, GR/IR mismatches, stock anomalies (multi-system), inter-warehouse transfers, Like-for-Like sales, and daily activity (ALL/DIFF). Operates on weekdays 08:00–18:00 every 30 minutes with role-based recipients and duplicate-suppression logs.  
+  → https://yigiteroglu.pythonanywhere.com/projects/erp-notify
+
 - **SAP B1 | Automated Email Notifications**  
   Event-driven HTML emails (idempotent, noise-free) to the right owner at the right time.  
   → https://yigiteroglu.pythonanywhere.com/projects/sap-b1-bildirim-otomasyonlari
@@ -184,6 +188,10 @@ My work blends **business analysis, data engineering, and productized automation
 
 ## ⚙️ Automation, APIs & Desktop
 
+- **ERP Notify | SAP B1 → Email Automation (Idempotent, Role-based)**  
+  Weekday 30-min scheduler, grouped HTML emails, duplicate suppression, audit logs.  
+  → https://yigiteroglu.pythonanywhere.com/projects/erp-notify
+
 - **FastAPI | SQL-Based Data Service**  
   Stock, dispatch orders/monitoring, and count documents as JSON APIs.  
   → https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi
@@ -203,6 +211,7 @@ My work blends **business analysis, data engineering, and productized automation
 - **Organization Chart | Tkinter Desktop**  
   Build org charts from Excel/CSV; position-based color themes, search with auto-centering, PNG/PDF export.  
   → https://yigiteroglu.pythonanywhere.com/projects/orgchart
+
 - **Custom Sales Offer Application**  
   Tailored quotation flows & exports.  
   → https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama
@@ -228,7 +237,7 @@ My work blends **business analysis, data engineering, and productized automation
   → https://yigiteroglu.pythonanywhere.com/projects/kredi-kar-zarar
 
 - **Financial Statements Analysis (Demo)**  
-  Income statement, balance sheet, cash flow, ratios; Y..Y−4 compara­tive charts; Excel multi-sheet export.  
+  Income statement, balance sheet, cash flow, ratios; Y..Y−4 comparative charts; Excel multi-sheet export.  
   → https://yigiteroglu.pythonanywhere.com/projects/finance
 
 ---
