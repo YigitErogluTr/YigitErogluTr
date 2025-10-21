@@ -66,7 +66,7 @@ My work blends **business analysis, data engineering, and productized automation
   → https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi
 
 - **Dash | Operations Dashboards (Multi-page + Auth)**  
-  Sales, returns, stocks, profit, finance, regional & geo analysis—print/PDF ready.  
+  Sales, returns, stock, profit, finance, regional & geo analysis—print/PDF ready.  
   → https://yigiteroglu.pythonanywhere.com/projects/ecommerce-analytics-dashboard  
   → https://yigiteroglu.pythonanywhere.com/projects/dash-analyzer  
   → https://yigiteroglu.pythonanywhere.com/projects/dash-stock
@@ -74,6 +74,14 @@ My work blends **business analysis, data engineering, and productized automation
 - **ABC / Pareto for SAP B1 (T-SQL + Excel/VBA)**  
   One-year net sales, 80/95 guide lines, Excel Pareto chart via macro.  
   → https://yigiteroglu.pythonanywhere.com/projects/abc-pareto-sapb1
+
+- **Desktop | Organization Chart (Excel → PNG/PDF)**  
+  Drag & drop Excel/CSV, role-based color mapping, zoom, search & auto-center, one-click PNG/PDF export.  
+  → https://github.com/YigitErogluTr/OrganizasyonSemasi_V1
+
+- **Dash | Financial Statements Analysis (Demo)**  
+  Income statement, balance sheet, cash flow, ratios; last 5-year comparison; multi-sheet Excel export.  
+  → https://github.com/YigitErogluTr/Finansal_Tablolar_Analizi
 
 ---
 
@@ -192,6 +200,10 @@ My work blends **business analysis, data engineering, and productized automation
   Sales, purchasing, income/expense tracking; optional Google Sheets/cloud usage.  
   → https://yigiteroglu.pythonanywhere.com/projects/python-thinker
 
+- **Organization Chart | Tkinter Desktop**  
+  Build org charts from Excel/CSV; position-based color themes, search with auto-centering, PNG/PDF export.  
+  → https://github.com/YigitErogluTr/OrganizasyonSemasi_V1
+
 - **Custom Sales Offer Application**  
   Tailored quotation flows & exports.  
   → https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama
@@ -216,25 +228,28 @@ My work blends **business analysis, data engineering, and productized automation
   Deferred vs. normal credit P/L monitoring.  
   → https://yigiteroglu.pythonanywhere.com/projects/kredi-kar-zarar
 
+- **Financial Statements Analysis (Demo)**  
+  Income statement, balance sheet, cash flow, ratios; Y..Y−4 compara­tive charts; Excel multi-sheet export.  
+  → https://github.com/YigitErogluTr/Finansal_Tablolar_Analizi
+
 ---
 
 ## 📝 Blog
-I write about ERP integrations, WMS, analytics, IoT, and delivery practices.
-
-- Read all posts → https://yigiteroglu.pythonanywhere.com/blog
+I write about ERP integrations, WMS, analytics, IoT, and delivery practices.  
+Read all posts → https://yigiteroglu.pythonanywhere.com/blog
 
 ---
 
 ## 🏆 Awards
 - **Ege Logistics Region Award (2022)** — WMS Warehouse Management System project  
 - **DEU Econometrics Honor Student (2021)**  
-See more → https://yigiteroglu.pythonanywhere.com/awards
+More → https://yigiteroglu.pythonanywhere.com/awards
 
 ---
 
 ## 🔗 References
 Clients & collaborators (selection): Egemen Group, Sempotech, Letra Water, H1, FS Software, BRL Tekstil, Green Lojistik, ELODER, Mim Danışmanlık.  
-→ https://yigiteroglu.pythonanywhere.com/references
+More → https://yigiteroglu.pythonanywhere.com/references
 
 ---
 
