@@ -77,7 +77,7 @@ My work blends **business analysis, data engineering, and productized automation
 
 - **Desktop | Organization Chart (Excel → PNG/PDF)**  
   Drag & drop Excel/CSV, role-based color mapping, zoom, search & auto-center, one-click PNG/PDF export.  
-  → https://github.com/YigitErogluTr/OrganizasyonSemasi_V1
+  → https://yigiteroglu.pythonanywhere.com/projects/orgchart
 
 - **Dash | Financial Statements Analysis (Demo)**  
   Income statement, balance sheet, cash flow, ratios; last 5-year comparison; multi-sheet Excel export.  
@@ -230,7 +230,7 @@ My work blends **business analysis, data engineering, and productized automation
 
 - **Financial Statements Analysis (Demo)**  
   Income statement, balance sheet, cash flow, ratios; Y..Y−4 compara­tive charts; Excel multi-sheet export.  
-  → https://github.com/YigitErogluTr/Finansal_Tablolar_Analizi
+  → https://yigiteroglu.pythonanywhere.com/projects/finance
 
 ---
 
