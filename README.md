@@ -186,6 +186,11 @@ My work blends **business analysis, data engineering, and productized automation
 
 ## ⚙️ Automation, APIs & Desktop
 
+- **Mail Report Bot — IMAP → SQL → Excel (Natural-Language Rules)**  
+  Natural-language email commands (ALL/NONE/ANY + synonyms) → SAP B1 SQL queries → auto-formatted Excel/CSV attachments.  
+  Idempotent (UID log), size-aware (CSV fallback), domain/whitelist control, weekday scheduler.  
+  → https://yigiteroglu.pythonanywhere.com/projects/mail-report-bot
+
 - **ERP Notify | SAP B1 → Email Automation (Idempotent, Role-based)**  
   Weekday 30-min scheduler, grouped HTML emails, duplicate suppression, audit logs.  
   → https://yigiteroglu.pythonanywhere.com/projects/erp-notify
@@ -213,6 +218,7 @@ My work blends **business analysis, data engineering, and productized automation
 - **Custom Sales Offer Application**  
   Tailored quotation flows & exports.  
   → https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama
+
 
 ---
 
