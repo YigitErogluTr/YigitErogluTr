@@ -24,16 +24,6 @@ My work blends **business analysis, data engineering, and productized automation
 
 ---
 
-## 🔎 What I’m good at
-- **ERP Systems:** SAP Business One, Netsis, Odoo, Akınsoft ERP  
-- **Databases & Analytics:** SQL Server, Power BI, SPSS, Pandas, NumPy  
-- **Automation & Apps:** Python, FastAPI, Dash, Tkinter, VBA, Gmail API (reporting)  
-- **Forecasting & ML:** Time Series (SARIMAX, Holt-Winters) & Gradient Boosting  
-- **QA & Delivery:** Test Case Design, QA, UAT; Agile / Scrum / Kanban  
-- **Processes:** Process Mapping & Optimization; conceptual design & documentation
-
----
-
 ## 🧭 Table of Contents
 - [Featured Projects](#-featured-projects)
 - [Results & Impact](#-results--impact)
@@ -52,6 +42,14 @@ My work blends **business analysis, data engineering, and productized automation
 ---
 
 ## 🚀 Featured Projects
+
+<!-- ✉️ NEW: Mail Report Bot -->
+- <img alt="mail-bot" src="https://img.shields.io/badge/Project-Mail%20Report%20Bot-1e3a5f?logo=gmail&logoColor=white" />
+  **Mail Report Bot — IMAP → SQL → Excel (SAP B1)**  
+  Natural-language mail commands → SAP B1 (SQL Server) queries → auto-formatted Excel/CSV attachments.  
+  Idempotent, multi-scenario, size-aware, and weekday-scheduled.  
+  → https://yigiteroglu.pythonanywhere.com/projects/mail-report-bot  
+  <sub>Tech: Python, SQL Server (pyodbc), Pandas, XlsxWriter, Gmail API (yagmail), python-dotenv</sub>
 
 - **ERP Notify | Audit & Operational Email Reports (SAP B1 + Gmail API)**  
   Scheduled, idempotent notifications for PRQ→PO conversions, shipments/deliveries, GR/IR mismatches, stock anomalies (multi-system), inter-warehouse transfers, Like-for-Like sales, and daily activity (ALL/DIFF). Operates on weekdays 08:00–18:00 every 30 minutes with role-based recipients and duplicate-suppression logs.  
