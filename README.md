@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Yiğit Eroğlu</h1>
-<h3 align="center">🚀 Business Analyst · ERP Systems & Data Analytics Consultant · İzmir, TR</h3>
+<h3 align="center">🚀 Business Analyst · ERP / WMS Systems · Data & AI Consultant · İzmir, TR</h3>
 
 <p align="center">
   <a href="mailto:yigiteroglu7@gmail.com">
@@ -15,11 +15,11 @@
 
 ---
 
-I design and implement **end-to-end process & data solutions** around ERP (especially SAP Business One), WMS, SQL Server, and Python.  
-My work blends **business analysis, data engineering, and productized automation**: alerting pipelines, IoT label printing, FastAPI data services, and multi-page Dash dashboards.
+I design and implement **end-to-end process, data and AI solutions** around ERP (especially SAP Business One & Netsis), WMS, SQL Server and Python.  
+My work blends **business analysis, data engineering, and productized automation**: alerting pipelines, IoT label printing, FastAPI data services, multi-page Dash dashboards and **NL2SQL / LLM-based report assistants**.
 
-- 🌱 Currently deepening **Python & data tooling** for ERP environments  
-- 🛠 Daily stack: **Python, SAP B1, SQL Server, Excel/VBA, Dash/Plotly, FastAPI**  
+- 🌱 Currently focusing on **AI-assisted ERP reporting (NL2SQL) & operational dashboards**
+- 🛠 Daily stack: **Python, SAP B1, Netsis, SQL Server, Excel/VBA, Dash/Plotly, FastAPI, OpenAI**
 - 📫 Contact: **yigiteroglu7@gmail.com** • 🌐 **https://yigiteroglu.pythonanywhere.com**
 
 ---
@@ -29,6 +29,7 @@ My work blends **business analysis, data engineering, and productized automation
 - [Results & Impact](#-results--impact)
 - [ERP & Business Solutions](#-erp--business-solutions)
 - [Dashboards & Analytics](#-dashboards--analytics)
+- [AI, NL2SQL & SQL Assistants](#-ai-nl2sql--sql-assistants)
 - [Automation, APIs & Desktop](#-automation-apis--desktop)
 - [Finance, Costing & Manufacturing](#-finance-costing--manufacturing)
 - [Blog](#-blog)
@@ -43,7 +44,7 @@ My work blends **business analysis, data engineering, and productized automation
 
 ## 🚀 Featured Projects
 
-<!-- ✉️ NEW: Mail Report Bot -->
+<!-- ✉️ Mail Report Bot -->
 - <img alt="mail-bot" src="https://img.shields.io/badge/Project-Mail%20Report%20Bot-1e3a5f?logo=gmail&logoColor=white" />
   **Mail Report Bot — IMAP → SQL → Excel (SAP B1)**  
   Natural-language mail commands → SAP B1 (SQL Server) queries → auto-formatted Excel/CSV attachments.  
@@ -51,8 +52,15 @@ My work blends **business analysis, data engineering, and productized automation
   → https://yigiteroglu.pythonanywhere.com/projects/mail-report-bot  
   <sub>Tech: Python, SQL Server (pyodbc), Pandas, XlsxWriter, Gmail API (yagmail), python-dotenv</sub>
 
+- <img alt="ai-sql" src="https://img.shields.io/badge/Project-ERP%20AI%20SQL%20Assistant-4b5563?logo=openai&logoColor=white" />
+  **ERP-Independent OpenAI-Based SQL Report Assistant (SAP B1 Example)**  
+  Uses selected ERP core tables’ schema to generate **safe, focused `SELECT` queries** from Turkish natural language prompts.  
+  Token-optimized schema prompt, ERP-aware joins and strict **read-only** SQL guard.  
+  → https://yigiteroglu.pythonanywhere.com/projects/erp-ai-sql-assistant  
+
 - **ERP Notify | Audit & Operational Email Reports (SAP B1 + Gmail API)**  
-  Scheduled, idempotent notifications for PRQ→PO conversions, shipments/deliveries, GR/IR mismatches, stock anomalies (multi-system), inter-warehouse transfers, Like-for-Like sales, and daily activity (ALL/DIFF). Operates on weekdays 08:00–18:00 every 30 minutes with role-based recipients and duplicate-suppression logs.  
+  Scheduled, idempotent notifications for PRQ→PO conversions, shipments/deliveries, GR/IR mismatches, stock anomalies (multi-system), inter-warehouse transfers, Like-for-Like sales, and daily activity (ALL/DIFF).  
+  Weekdays 08:00–18:00, every 30 minutes, role-based recipients and duplicate-suppression logs.  
   → https://yigiteroglu.pythonanywhere.com/projects/erp-notify
 
 - **SAP B1 | Automated Email Notifications**  
@@ -174,13 +182,31 @@ My work blends **business analysis, data engineering, and productized automation
   Aging, turnover, sleepers, monthly sales trends; production views.  
   → https://yigiteroglu.pythonanywhere.com/projects/dash-stock
 
-- **SQL | Reporting & Data Mining**  
-  Complex T-SQL for actionable insights.  
-  → https://yigiteroglu.pythonanywhere.com/projects/sql-raporlama
+- **Dash | Financial Statements Analysis (Demo)**  
+  Income statement, balance sheet, cash flow, ratios; Y..Y−4 comparative charts; Excel multi-sheet export.  
+  → https://yigiteroglu.pythonanywhere.com/projects/finance
 
 - **Time Series Analysis | Sales Forecasting & Trend Modeling**  
   SARIMAX, Holt-Winters, and ML baselines with confidence intervals & exports.  
   → https://yigiteroglu.pythonanywhere.com/projects/time-series-analysis
+
+- **SQL | Reporting & Data Mining**  
+  Complex T-SQL for actionable insights.  
+  → https://yigiteroglu.pythonanywhere.com/projects/sql-raporlama
+
+---
+
+## 🤖 AI, NL2SQL & SQL Assistants
+
+- **ERP-Independent OpenAI-Based SQL Report Assistant (SAP B1 Example)**  
+  Natural language → safe `SELECT` queries over a curated SAP B1 schema (OITM, ITM1, OITW, OPOR, ORDR, OINV, OCRD, OWOR, BOM1…).  
+  Token-optimized schema prompt, ERP-aware joins and strict **no INSERT/UPDATE/DELETE** rules.  
+  → https://yigiteroglu.pythonanywhere.com/projects/erp-ai-sql-assistant  
+
+- **(Design & POC) Netsis SQL AI Report Bot (Local LLM)**  
+  Planned architecture for **GPT-free**, local LLM-based Netsis reporting:  
+  IMAP/Gmail inbox → natural language → local model (Llama/Qwen/Mistral) → SQL → Excel report.  
+  Focus on read-only schemas, config-based scenario routing and on-prem data governance.
 
 ---
 
@@ -196,11 +222,11 @@ My work blends **business analysis, data engineering, and productized automation
   → https://yigiteroglu.pythonanywhere.com/projects/erp-notify
 
 - **FastAPI | SQL-Based Data Service**  
-  Stock, dispatch orders/monitoring, and count documents as JSON APIs.  
+  Stock, dispatch orders/monitoring, and count documents as JSON APIs with Swagger UI.  
   → https://yigiteroglu.pythonanywhere.com/projects/sql-fastapi
 
 - **Python, SQL, VBA | Automated Reporting**  
-  Scheduling, templated exports, and email distribution.  
+  Scheduling, templated exports, and email distribution for operational and management reports.  
   → https://yigiteroglu.pythonanywhere.com/projects/python-oto-rapor
 
 - **TCMB FX Rates Automation — Tkinter Desktop + Excel/CSV Export**  
@@ -216,9 +242,8 @@ My work blends **business analysis, data engineering, and productized automation
   → https://yigiteroglu.pythonanywhere.com/projects/orgchart
 
 - **Custom Sales Offer Application**  
-  Tailored quotation flows & exports.  
+  Tailored quotation flows & exports for SME scenarios.  
   → https://yigiteroglu.pythonanywhere.com/projects/ozel-uygulama
-
 
 ---
 
@@ -247,32 +272,39 @@ My work blends **business analysis, data engineering, and productized automation
 ---
 
 ## 📝 Blog
-I write about ERP integrations, WMS, analytics, IoT, and delivery practices.  
+
+I write about ERP integrations, WMS, analytics, IoT, AI-assisted reporting and delivery practices.  
 Read all posts → https://yigiteroglu.pythonanywhere.com/blog
 
 ---
 
 ## 🏆 Awards
+
 - **Ege Logistics Region Award (2022)** — WMS Warehouse Management System project  
 - **DEU Econometrics Honor Student (2021)**  
+
 More → https://yigiteroglu.pythonanywhere.com/awards
 
 ---
 
 ## 🔗 References
-Clients & collaborators (selection): Egemen Group, Sempotech, Letra Water, H1, FS Software, BRL Tekstil, Green Lojistik, ELODER, Mim Danışmanlık.  
+
+Clients & collaborators (selection): **Egemen Group, Sempotech, Letra Water, H1, FS Software, BRL Tekstil, Green Lojistik, ELODER, Mim Danışmanlık**.  
+
 More → https://yigiteroglu.pythonanywhere.com/references
 
 ---
 
 ## 🎓 Education & Career
+
 - **MSc, Management Information Systems** — Dokuz Eylül University (2023–2025)  
-  Term Project: *Stock Traceability & ERP Management*
+  Term Project: *Stock Traceability & ERP Management* (Netsis → SAP B1 migration, WMS & IoT integration)
 - **BSc, Econometrics (Honors)** — Dokuz Eylül University (2016–2021)
 
 **Business Analyst Specialist @ Egemen Group (Sep 2021 – Present)**  
-ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations.  
-→ Details: https://yigiteroglu.pythonanywhere.com/career  
+ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations, automation & AI-backed reporting.  
+
+→ Career: https://yigiteroglu.pythonanywhere.com/career  
 → Education: https://yigiteroglu.pythonanywhere.com/education
 
 ---
@@ -282,8 +314,9 @@ ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations.
 **ERP:** SAP Business One, Netsis, Odoo, Akınsoft ERP  
 **DB/BI:** SQL Server, Power BI, SPSS  
 **Python:** Pandas, NumPy, FastAPI, Dash/Plotly, Tkinter, OpenPyXL, Requests  
-**Automation:** VBA/Excel, Gmail API, scheduling, ETL pipelines  
-**Patterns:** Idempotent email alerts, CSV/Excel/PDF outputs, auth’d dashboards
+**AI & LLMs:** OpenAI GPT models (NL2SQL, classification, extraction), prompt engineering with ERP schemas  
+**Automation:** VBA/Excel, Gmail API, IMAP/SMTP bots, schedulers, ETL-style pipelines  
+**Patterns:** Idempotent email alerts, CSV/Excel/PDF outputs, authenticated dashboards, role-based routing
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/sap.png" width="40" height="40" alt="SAP Business One" title="SAP Business One"/>
@@ -301,6 +334,7 @@ ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitErogluTr&layout=compact&theme=default" alt="Top Languages"/>
 </p>
@@ -308,8 +342,9 @@ ERP/WMS/production projects, SQL analytics, BI dashboards, IT integrations.
 ---
 
 ## 📫 Contact
+
 - Email: **yigiteroglu7@gmail.com**  
 - Website: **https://yigiteroglu.pythonanywhere.com**  
-- LinkedIn: **https://www.linkedin.com/in/mustafa-yiğit-eroğlu/**
+- LinkedIn: **https://www.linkedin.com/in/mustafa-yiğit-eroğlu/**  
 
-> I connect business operations with reliable data & automation—designing measurable, maintainable solutions that scale.
+> I connect business operations with reliable data, automation and AI — designing measurable, maintainable solutions that scale.
