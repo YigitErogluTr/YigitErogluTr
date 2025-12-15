@@ -44,6 +44,14 @@ My work blends **business analysis, data engineering, and productized automation
 
 ## 🚀 Featured Projects
 
+- <img alt="netsis-sql" src="https://img.shields.io/badge/Project-NETSIS%20SQL%20Toolbox-0f172a?logo=microsoftsqlserver&logoColor=white" />
+  **NETSIS — SQL Tool Set (Reporting & Analysis Queries)**  
+  A curated and structured **SQL query library for NETSIS ERP** covering master data checks, stock/serial-lot tracking, sales–purchase analysis and finance summaries.  
+  Built with an **ERP consultant mindset**: reusable queries, consistent naming, clean CTE structure and parameter placeholders—ready for Excel, Power BI and dashboard datasets.  
+  → https://yigiteroglu.pythonanywhere.com/projects/netsis  
+  <sub>Repo: https://github.com/YigitErogluTr/Netsis • Tech: T-SQL (SQL Server), NETSIS ERP, Reporting Standards</sub>
+
+
 <!-- ✉️ Mail Report Bot -->
 - <img alt="mail-bot" src="https://img.shields.io/badge/Project-Mail%20Report%20Bot-1e3a5f?logo=gmail&logoColor=white" />
   **Mail Report Bot — IMAP → SQL → Excel (SAP B1)**  
@@ -169,6 +177,10 @@ My work blends **business analysis, data engineering, and productized automation
 ---
 
 ## 📊 Dashboards & Analytics
+
+- **NETSIS — SQL Tool Set (Reporting & Analysis Queries)**  
+  → https://yigiteroglu.pythonanywhere.com/projects/netsis • Repo: https://github.com/YigitErogluTr/Netsis
+
 
 - **E-Commerce Analytics Dashboard | Multi-Page, Auth, Print/PDF**  
   Marketplace consolidation (Trendyol, Hepsiburada, Amazon, N11) with interactive charts.  
