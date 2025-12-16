@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Yiğit Eroğlu</h1>
-<h3 align="center">🚀 Business Analyst · ERP / WMS Systems · Data & AI Consultant · İzmir, TR</h3>
+<h3 align="center">🚀 Business Analyst · ERP Project Manager · ERP / WMS Systems / MES Systems· Data & AI Consultant · İzmir, TR</h3>
 
 <p align="center">
   <a href="mailto:yigiteroglu7@gmail.com">
